@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 29\\New folder\\React.TicTacToe.TryThree\\",
+  "WorkspaceRootPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 21\\React.TicTacToe.Redo\\React.TicTacToe.TryThree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{542B9537-36F1-4864-BA01-8F08F64CA9E1}|React.TicTacToe.TryThree\\react.tictactoe.trythree.esproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 29\\new folder\\react.tictactoe.trythree\\react.tictactoe.trythree\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{542B9537-36F1-4864-BA01-8F08F64CA9E1}|React.TicTacToe.TryThree\\react.tictactoe.trythree.esproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 21\\react.tictactoe.redo\\react.tictactoe.trythree\\react.tictactoe.trythree\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{542B9537-36F1-4864-BA01-8F08F64CA9E1}|React.TicTacToe.TryThree\\react.tictactoe.trythree.esproj|solutionrelative:react.tictactoe.trythree\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542B9537-36F1-4864-BA01-8F08F64CA9E1}|React.TicTacToe.TryThree\\react.tictactoe.trythree.esproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 29\\new folder\\react.tictactoe.trythree\\react.tictactoe.trythree\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{542B9537-36F1-4864-BA01-8F08F64CA9E1}|React.TicTacToe.TryThree\\react.tictactoe.trythree.esproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 21\\react.tictactoe.redo\\react.tictactoe.trythree\\react.tictactoe.trythree\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{542B9537-36F1-4864-BA01-8F08F64CA9E1}|React.TicTacToe.TryThree\\react.tictactoe.trythree.esproj|solutionrelative:react.tictactoe.trythree\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 29\\New folder\\React.TicTacToe.TryThree\\react.tictactoe.trythree\\src\\App.jsx",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 21\\React.TicTacToe.Redo\\React.TicTacToe.TryThree\\react.tictactoe.trythree\\src\\App.jsx",
               "RelativeDocumentMoniker": "react.tictactoe.trythree\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 29\\New folder\\React.TicTacToe.TryThree\\react.tictactoe.trythree\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 21\\React.TicTacToe.Redo\\React.TicTacToe.TryThree\\react.tictactoe.trythree\\src\\App.jsx",
               "RelativeToolTip": "react.tictactoe.trythree\\src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-12-21T06:01:35.134Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "App.css",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 29\\New folder\\React.TicTacToe.TryThree\\react.tictactoe.trythree\\src\\App.css",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 21\\React.TicTacToe.Redo\\React.TicTacToe.TryThree\\react.tictactoe.trythree\\src\\App.css",
               "RelativeDocumentMoniker": "react.tictactoe.trythree\\src\\App.css",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 29\\New folder\\React.TicTacToe.TryThree\\react.tictactoe.trythree\\src\\App.css",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 21\\React.TicTacToe.Redo\\React.TicTacToe.TryThree\\react.tictactoe.trythree\\src\\App.css",
               "RelativeToolTip": "react.tictactoe.trythree\\src\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-21T05:57:01.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T05:57:01.789Z"
             }
           ]
         }
