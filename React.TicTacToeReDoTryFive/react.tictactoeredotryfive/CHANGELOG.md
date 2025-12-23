@@ -4,9 +4,9 @@ The following tools were used to generate this project:
 - create-vite
 
 The following steps were used to generate this project:
-- Create react project with create-vite: `npm init --yes vite@latest react.tictactoe.trythree -- --template=react`.
-- Updating vite.config.js with port.
-- Create project file (`react.tictactoe.trythree.esproj`).
+- Create react project with create-vite: `npm init --yes vite@latest react.tictactoeredotryfive -- --template=react`.
+- Updating `vite.config.js` with port.
+- Create project file (`react.tictactoeredotryfive.esproj`).
 - Create `launch.json` to enable debugging.
 - Add project to solution.
 - Write this file.

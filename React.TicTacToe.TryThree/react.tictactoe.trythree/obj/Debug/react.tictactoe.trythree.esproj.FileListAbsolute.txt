@@ -1,2 +1,0 @@
-C:\Users\Youngwoo\Documents\MEGA\WIP\02-WIP\Jan 29\New folder\React.TicTacToe.TryThree\React.TicTacToe.TryThree\obj\Debug\react.tictactoe.trythree.esproj.CoreCompileInputs.cache
-C:\Users\Youngwoo\Documents\MEGA\WIP\02-WIP\Dec 21\React.TicTacToe.Redo\React.TicTacToe.TryThree\React.TicTacToe.TryThree\obj\Debug\react.tictactoe.trythree.esproj.CoreCompileInputs.cache
